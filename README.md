@@ -5,6 +5,9 @@
     </a>
 </p>
 
+<p align="center">
+挣扎中……
+</p>
 
 <div align="center">
     <img src="https://github-cards.yumeko.site/api/cards/stats?username=V-YOP&theme=github" alt="Stats" />
